@@ -1,3 +1,9 @@
+#******************************************************
+ # Polytechnic of Turin / LIRMM
+ # 2018
+ # FIE - Fault Injection Environment v04.6
+#******************************************************
+
 from string 	import *
 from sys 		import *
 from os 		import *
