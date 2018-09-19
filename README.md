@@ -14,6 +14,6 @@ The whole project is composed by two parts: *FIEbrd* which is the board-side set
  * FreeRTOS v9.0.0
  * STM32F3DISCOVERY board
  * Python2.7
-  * numpy
-  * matplotlib 
-  * serial
+   * numpy
+   * matplotlib 
+   * serial
