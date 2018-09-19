@@ -17,3 +17,5 @@ The whole project is composed by two parts: *FIEbrd* which is the board-side set
    * numpy
    * matplotlib 
    * serial
+ * Eclipse
+   * ac6-tool for STM32 devices
